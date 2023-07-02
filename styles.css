@@ -1,17 +1,24 @@
-nav{
-    margin: 0;
-    padding: 0;
+nav {
+  margin: 0;
+  padding: 0;
 }
-nav li{
-    margin: 2;
-    list-style: none;
-    float: left;
+nav li {
+  margin: 2;
+  list-style: none;
+  float: left;
 }
 
-nav li a{
-    padding: 5px;
-    margin: 5px;
-    background-color: aquamarine;
-    display: block;
-    align-items: center;
+nav li a {
+  padding: 5px;
+  margin: 5px;
+  background-color: aquamarine;
+  display: block;
+  align-items: center;
+}
+div {
+  background-color: aqua;
+  height: 72px;
+  width: 82px;
+  padding: 10px;
+  color: black;
 }
