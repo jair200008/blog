@@ -1,4 +1,6 @@
 const elements = document.getElementById("section-Dos");
+
+const boton = document.getElementById("mensaje");
 const divOne = elements.querySelectorAll("div");
 console.log(elements.childNodes);
 
@@ -15,3 +17,5 @@ setTimeout(()=>{
     const element = document.getElementById("section-Uno")
     element.innerHTML = '';
 },5000)
+boton.onclick  = alert("hola mundo")
+

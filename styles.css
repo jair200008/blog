@@ -22,3 +22,14 @@ div {
   padding: 10px;
   color: black;
 }
+button{
+    
+    font-family: 'Times New Roman', Times, serif;
+    height: 20px;
+    width: 50px;
+    margin: 50px;
+    border: solid 1px;
+    background-color: bisque;
+    color: black;
+    border-radius: 2px;
+}
