@@ -10,3 +10,8 @@ divOne.forEach(function (element, index) {
     element.style.backgroundColor = "blue";
   }
 });
+
+setTimeout(()=>{
+    const element = document.getElementById("section-Uno")
+    element.innerHTML = '';
+},5000)
