@@ -17,5 +17,4 @@ setTimeout(()=>{
     const element = document.getElementById("section-Uno")
     element.innerHTML = '';
 },5000)
-boton.onclick  = alert("hola mundo")
 
